@@ -1,0 +1,5 @@
+Messi won the world cup with Argentina.
+Python is used for AI and machine learning.
+Chennai is famous for Marina Beach.
+Football is the most popular sport in the world.
+React is a frontend JavaScript library.
