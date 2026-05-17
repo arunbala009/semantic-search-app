@@ -2,6 +2,8 @@
 
 A simple Semantic Search web app built using Streamlit and Sentence Transformers.
 
+Deployed Link(Streamlit): https://semantic-search-app-ccacxrscgcb9h7jgn3cwew.streamlit.app/
+
 ## Features
 
 - Semantic text search
